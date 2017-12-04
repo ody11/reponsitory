@@ -18,7 +18,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://triksbymrz.blogspot.com/p/advertise-kode-iklan-disini-safe-link.html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://triksbymrz.blogspot.co.id/p/safelinkku.html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
@@ -277,7 +277,7 @@ inject ssh delete 13 May 2017 at 22:58
 mantap dan work
 kalo 404 coba di lihat lagi di posting pada blog safelink nya nya
 https://cdn.rawgit.com/dedi96/safelink/813ce72f/safelinkga.js
-https://triksbymrz.blogspot.com/p/advertise-kode-iklan-disini-safe-link.html
+http://www.safelink.ga/p/generate.html
 ganti dengan url masing2
 semoga membantu
 avatar
@@ -339,7 +339,7 @@ DC delete 21 May 2017 at 15:53
 iya mas saya pakai blogspot.
 jika berkenan ini hasil dari sebuah link download blog utama
 
-https://triksbymrz.blogspot.com/p/advertise-kode-iklan-disini-safe-link.htmll?url=aHR0cDovL2FkZi5seS8xU2czSTM=
+https://datacorel-download.blogspot.com/p/downloads.html?url=aHR0cDovL2FkZi5seS8xU2czSTM=
 
 (dihapus saja koment ini stelah mas lihat contoh )
 tapi klik visitnya gak bisa ke klik.
@@ -515,7 +515,7 @@ This comment has been removed by the author.
 avatar
 Balas
 Gudang Firmware delete 10 June 2017 at 01:57
-Apa Yang Salah Dengan Ini..? https://triksbymrz.blogspot.com/p/advertise-kode-iklan-disini-safe-link.html
+Apa Yang Salah Dengan Ini..? https://safelinkblogg.blogspot.com/
 avatar
 Balas
 Dedi Islafuddin  delete 10 June 2017 at 05:09
@@ -956,7 +956,7 @@ Saya praktekkan pakai punya mas Dedi.
 Hasilnya juga sama.
 
 Saya convert link di www.safelink.ga
-Hasilnya: http://www.safelink.ga/p/generate.html?url=d3d3Lmd1cnVoZWJhdC54eXo=
+Hasilnya: https://triksbymrz.blogspot.co.id/p/safelinkku.html=d3d3Lmd1cnVoZWJhdC54eXo=
 
 Setelah klik "Visit Link"
 Bukannya menuju ke www.guruhebat.xyz malah dibawa ke http://www.safelink.ga/p/www.guruhebat.xyz
@@ -1015,7 +1015,7 @@ Saya praktekkan pakai punya mas Dedi.
 Hasilnya juga sama.
 
 Saya convert link di www.safelink.ga
-Hasilnya: https://triksbymrz.blogspot.com/p/advertise-kode-iklan-disini-safe-link.html?url=d3d3Lmd1cnVoZWJhdC54eXo=
+Hasilnya: https://triksbymrz.blogspot.co.id/p/safelinkku.html?url=d3d3Lmd1cnVoZWJhdC54eXo=
 
 Setelah klik "Visit Link"
 Bukannya menuju ke www.guruhebat.xyz malah dibawa ke http://www.safelink.ga/p/www.guruhebat.xyz
