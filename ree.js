@@ -75,7 +75,7 @@ Aku mung wong biasa seng ora iso opo-opo neng pengen iso, jen koyok kanca-kancan
 
 Cara Upgrade Kartu TRI 3G ke 4G Dengan Mudah dilakukan Sendiri
 Cara Cepat Supaya di Terima Google Adsense
-451 komentar     1 – 200 of 451   Newer›   Newest»
+451 komentar     1 â€“ 200 of 451   Newerâ€º   NewestÂ»
 avatar
 Balas
 Aris Wahyu delete 22 March 2017 at 20:29
@@ -1059,7 +1059,7 @@ Balas
 Dedi Islafuddin  delete 31 July 2017 at 20:13
 coba cek bagian html template di teliti lagi dan script js nya
 baca dengan teliti tutor diatas om 
-    1 – 200 of 451   Newer›   Newest»
+    1 â€“ 200 of 451   Newerâ€º   NewestÂ»
 Gunakan kata-kata yang bijak saat berkomentar ya sob.
 Emoticon
 
@@ -1086,13 +1086,13 @@ Komentar Terbaru
 Aka-chanAka-chan
 Gak bisa diganti package Name nya min.. gimana ya?
 Dedi IslafuddinDedi Islafuddin
-Beda om, untuk yg random post udah pernah ane share diblog i…
+Beda om, untuk yg random post udah pernah ane share diblog iâ€¦
 adminadmin
 ini bisa untuk random post kah ???
 Iskandar DzulkarnainIskandar Dzulkarnain
-jadi penasaran pengen nyobabanyak banget yang bicarain safel…
+jadi penasaran pengen nyobabanyak banget yang bicarain safelâ€¦
 Dedi IslafuddinDedi Islafuddin
-Iya harusnya yg punya iklan om. Untuk mendapatkan hasil dri …
+Iya harusnya yg punya iklan om. Untuk mendapatkan hasil dri â€¦
 Artikel Terbaru
 Alat yang dibutuhkan untuk menjadi Creator YouTube Profesional
 
